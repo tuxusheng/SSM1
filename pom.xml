@@ -20,7 +20,7 @@
         <!--spring版本指定，版本升级直接修改这里的版本号-->
         <spring.version>5.0.8.RELEASE</spring.version>
         <!--jackson版本指定-->
-        <jackson.version>2.9.3</jackson.version>
+        <jackson.version>2.12.1</jackson.version>
     </properties>
 
 
